@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/7e062fxu02bi8kny?svg=true)](https://ci.appveyor.com/project/olvitbriz/zadanie2-1)
+https://ci.appveyor.com/project/olvitbriz/zadanie2-1/settings/badges#:~:text=%5B!%5BBuild%20status%5D(https%3A//ci.appveyor.com/api/projects/status/7e062fxu02bi8kny%3Fsvg%3Dtrue)%5D(https%3A//ci.appveyor.com/project/olvitbriz/zadanie2%2D1)
